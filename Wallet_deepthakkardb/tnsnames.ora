@@ -1,0 +1,8 @@
+deepthakkardb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-hyderabad-1.oraclecloud.com))(connect_data=(service_name=gad6e2f6c7842dd_deepthakkardb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+deepthakkardb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-hyderabad-1.oraclecloud.com))(connect_data=(service_name=gad6e2f6c7842dd_deepthakkardb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+deepthakkardb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-hyderabad-1.oraclecloud.com))(connect_data=(service_name=gad6e2f6c7842dd_deepthakkardb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
